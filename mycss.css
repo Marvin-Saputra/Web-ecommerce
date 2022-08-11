@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 3rem;
+
+  background-color: #ffff;
+}
+
+.imgfont {
+  padding-left: 10px;
+}
+
+.btn btn-primary btn-lg {
+  background-color: black;
+}
+
+body {
+  min-height: 2000px;
+}
+
+.home-text {
+  text-decoration-color: white;
+}
+
+#about {
+  background-color: #ff1e00;
+}
